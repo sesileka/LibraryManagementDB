@@ -10,7 +10,8 @@ Project Overview: Our database consists of book data, checkout data, and book av
 
 **Database Features:** Our database allows for students and library staff to easily track book availability via storing reservation information, as well as info regarding books, book copies, publishers, and student borrowing history.
 
-**Database Design:** <img width="617" height="313" alt="image" src="https://github.com/user-attachments/assets/d7827329-0d0b-47be-8da1-4410c2d92a38" />
+**Database Design:** 
+<img width="617" height="313" alt="image" src="https://github.com/user-attachments/assets/d7827329-0d0b-47be-8da1-4410c2d92a38" />
 
 
 
