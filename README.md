@@ -1,4 +1,4 @@
-**Project Title:** Library Management System
+**Project Title:** LibraryManagementDB
 
 Project Overview: Our database consists of book data, checkout data, and book availability data that will be used to help students better access the information they need and library staff to have availability information at their fingertips
 .  
