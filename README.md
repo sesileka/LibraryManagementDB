@@ -19,7 +19,7 @@ Our database allows students and library staff to easily track book availability
 ## Database Design
 <img width="617" alt="Library Management ERD Diagram" src="https://github.com/user-attachments/assets/d7827329-0d0b-47be-8da1-4410c2d92a38" />
 
-*(The original ERD design file can also be found in the `design/` folder)*
+
 
 ## Project Structure
 Our files are organized into three primary directories:
