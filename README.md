@@ -19,6 +19,7 @@ Our database allows students and library staff to easily track book availability
 ## Database Design
 <img width="617" alt="Library Management ERD Diagram" src="https://github.com/user-attachments/assets/d7827329-0d0b-47be-8da1-4410c2d92a38" />
 
+We designed our database based off of what key data is needed to associate both staff and users with reservation making and reservation management as well as data used within existing library systems to identify books. One challenge we faced was limiting the scope of our database for the purpose of this project. 
 
 
 ## Project Structure
