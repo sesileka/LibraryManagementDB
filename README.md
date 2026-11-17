@@ -19,7 +19,13 @@ Our database allows students and library staff to easily track book availability
 ## Database Design
 <img width="617" alt="Library Management ERD Diagram" src="https://github.com/user-attachments/assets/d7827329-0d0b-47be-8da1-4410c2d92a38" />
 
-We designed our database based off of what key data is needed to associate both staff and users with reservation making and reservation management as well as data used within existing library systems to identify books. One challenge we faced was limiting the scope of our database for the purpose of this project. 
+Our database is designed to help manage book information and daily library activities. It includes seven tables: Book, Publisher, BookCopies, Students, Staff, Loans, and Reservations.
+
+The Book table stores information about each book, while the Publisher table keeps track of its publishers. We separated Book and BookCopies because a library may have multiple physical copies of the same book. Each copy has its own barcode and can be tracked individually.
+
+The Students and Staff tables store information about the people involved in library activities. The Loans table records book checkouts and returns, while the Reservations table allows students to reserve books.
+
+One challenge we faced was deciding which information was necessary to include while keeping the database organized and avoiding unnecessary complexity.
 
 
 ## Project Structure
