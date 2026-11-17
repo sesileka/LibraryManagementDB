@@ -1,0 +1,111 @@
+,,,,,,,,,,,,,,,,,,Staff,,,
+book,,,,,,,,,publisher,,,,,,,,,staff_id,email,first_name,last_name
+book_id,book_title,book_author,publication_date,publisher,genre,language,identifier,,publisher_id,publisher,,,,,,,,123000,staff.123000@seattlecolleges.edu,Nina,Dobrev
+1,Twilight,"Meyer, Stephanie",2008,"Little, Brown and Company",,English,9.78032E+12,,1,Scholastic Press,,,,,,,,123001,staff.123001@seattlecolleges.edy,Paul,Wesley
+2,The Hunger Games,"Collins, Suzanne",2008,Scholastic Press,Dystopian Fication,English,9.78141E+12,,2,Disney/Hyperion,,,,,,,,123002,staff.123002@seattlecolleges.edu,Ian,Somerhalder
+3,The Lightning Thief,"Riordan, Rick",2005,Disney/Hyperion,Fantasy,English,9.78148E+12,,3,Miramax Books/Hyperion Books for Children,,,,,,,,123003,staff.123003@seattlecolleges.edu,Kat,Graham
+4,The Sea of Monsters,"Riordan, Rick",2006,Disney/Hyperion,Fantasy,English,9.78142E+12,,4,Hyperion Books for Children,,,,,,,,123004,staff.123004@seattlecolleges.edu,Candice,King
+5,The Titan's Curse,"Riordan, Rick",2007,Miramax Books/Hyperion Books for Children,Fantasy,English,9.78142E+12,,5,"Little, Brown and Company",,,,,,,,123005,staff.123005@seattlecolleges.edu,Zach,Roerig
+6,The Battle of the Labyrinth,"Riordan, Rick",2008,Hyperion Books for Children,Fantasy,English,9.78142E+12,,6,"Daw Books, Inc.",,,,,,,,123006,staff.123006@seattlecolleges.edu,Michael,Trevino
+7,The Last Olympian,"Riordan, Rick",2009,Disney/Hyperion,Fantasy,English,9.78142E+12,,7,Scribner,,,,,,,,123007,staff.123007@seattlecolleges.edu,Steven,McQueen
+8,Make Believe: On Telling Stories to Children,"Barnett, Mac",2026,"Little, Brown and Company",Essay,English,9.78032E+12,,8,Grand Central Publisher,,,,,,,,123008,staff.123008@seattlecolleges.edu,Matthew,Davis
+9,Noor,"Okorafor, Nnedi",2021,"Daw Books, Inc.",Science Fiction,English,9.78076E+12,,9,W. W. Norton & Company,,,,,,,,123009,staff.123009@seattlecolleges.edu,Michael,Malarkey
+10,Big Swiss,"Beagin, Jen",2023,Scribner,Literary Fiction,English,9.78198E+12,,10,Firebrand Books,,,,,,,,123010,staff.123010@seattlecolleges.edu,Joseph,Morgan
+11,Parable of the Sower,"Butler, Octavia",1993,Grand Central Publisher,Dystopian Fication,English,9.78154E+12,,11,"Doubleday & Company, Inc.",,,,,,,,123011,staff.123001@seattlecolleges.edy,Marguerite,MacIntyre
+12,American Bulk: Essays on Excess,"Mester, Emily",2025,W. W. Norton & Company,Essay,English,9.78132E+12,,12,Berkley & B,,,,,,,,123012,staff.123012@seattlecolleges.edu,Sara,Canning
+13,Stone Butch Blues,"Feinberg, Leslie",1993,Firebrand Books,LGBTQ+ Fication,English,9.78156E+12,,13,Vintage Espanol,,,,,,,,123013,staff.123013@seattlecolleges.edu,Claire,Holt
+14,Kindred,"Butler, Octavia",1979,"Doubleday & Company, Inc.",Science Fiction,English,9.78081E+12,,14,The Library of America,,,,,,,,123014,staff.123014@seattlecolleges.edu,Susan,Walters
+15,Vampires of El Norte,"Canas, Isabel",2023,Berkley & B,Historical Fiction,English,9.78059E+12,,15,Tom Doherty Associates/Tor Publishing Group,,,,,,,,123015,staff.123015@seattlecolleges.edu,Daniel,Gillies
+16,Vampiros en El Norte,"Canas, Isabel",2024,Vintage Espanol,Historical Fiction,Spanish,9.79889E+12,,16,Psychopomp,,,,,,,,123016,staff.123016@seattlecolleges.edu,Kristina,Bogic
+17,Lilith's brood: the Xenogenesis triology,"Butler, Octavia",2005,The Library of America,Science Fiction,English,9.7816E+12,,17,Milkweed Editions,,,,,,,,123017,staff.123017@seattlecolleges.edu,Geena,Meszaros
+18,The girl with a thousand faces,"Dean, Sunyi",2026,Tom Doherty Associates/Tor Publishing Group,Fantasy,English,9.78125E+12,,18,Henry Holt and Company,,,,,,,,123018,staff.123018@seattlecolleges.edu,Sara,Boustany
+19,One Message Remains,"Mohamed, Premee",2025,Psychopomp,Speculative Fiction,English,9.79889E+12,,19,William Morrow,,,,,,,,123019,staff.123019@seattlecolleges.edu,Elise,Zakaria
+20,Braiding Sweetgrass,"Kimmerer, Robin Wall",2013,Milkweed Editions,Non-fiction,English,9.78157E+12,,20,Berkley,,,,,,,,123020,staff.123020@seattlecolleges.edu,Leo,Anderson
+21,Children of Blood and Bone,"Adeyemi, Tomi",2018,Henry Holt and Company,Fantasy,English,9.78125E+12,,21,Knopf,,,,,,,,,,,
+22,Children of Virtue and Vengeance,"Adeyemi, Tomi",2019,Henry Holt and Company,Fantasy,English,9.78125E+12,,22,HarperCollins ,,,,,,,,,,,
+23,Children of Anguish and Anarchy,"Adeyemi, Tomi",2024,Henry Holt and Company,Fantasy,English,9.78125E+12,,23,Harper,,,Students,   ,,,,,,,
+24,All About Love,"hooks, bell",2018,William Morrow,Non-fiction,English,9.78006E+12,,24,MTV Books/Pocket Books,,,student_id,first_name,last_name,email,,,,,
+25,The Bone Thief,"Lillie, Vanessa",2025,Berkley,Thriller,English,9.78059E+12,,25,University of Washington Press,,,1010,Abel,Tesfaye,abel.tesfaye@seattlecolleges.edu,,,,,
+26,Blood Sisters,"Lillie, Vanessa",2023,Berkley,Thriller,English,9.78059E+12,,26,University Press of Kansan,,,1011,Ayo,Edebiri,ayo.edebri@seattlescolleges.edu,,,,,
+27,Sense and Sensibility,"Austen, Jane",1992,Knopf,Romance,English,ocm07322260,,27,"Tom Doherty Associates, LLC",,,1012,Rachel,Sennott,rachel.sennott@seattlecolleges.edu,,,,,
+28,Where the Sidewalk Ends,"Silverstein, Shel",2004,HarperCollins ,Children's Poetry,English,9.78006E+12,,28,Minotauro,,,1013,Ruby,Cruz,ruby.cruz@seattlecolleges.edu,,,,,
+29,The Giving Tree,"Silverstein, Shel",1964,HarperCollins ,Children's Poetry,English,9.78006E+12,,29,Avery,,,1014,Havana,Liu,havana.liu@seattlecolleges.edu,,,,,
+30,A Light in the Attic,"Silverstein, Shel",2009,Harper,Children's Poetry,English,9.78006E+12,,30,Beacon Press,,,1015,Kaia ,Gerber,kaia.gerber@seattlecolleges.edu,,,,,
+31,The Perks of Being a Wallflower,"Chbosky, Stephen",1999,MTV Books/Pocket Books,Young Adult Fiction,English,9.78067E+12,,31,Pantheon Books,,,1016,Marshawn,Lynch,marshawn.lynch@seattlecolleges.edu,,,,,
+32,The River That Made Seattle,"Cummings, B.J",2020,University of Washington Press,Non-fiction,English,9.7803E+12,,32,Taylor and Francis,,,1017,Zamani,Wilder,zamani.wilder@seattlecolleges.edu,,,,,
+33, The Hanford Plaintiffs: Voices from the Fight for Atomic Justice,"Pritikin, Trisha",2020,University Press of Kansan,Non-fiction,English,9.7807E+12,,,,,,1018,Lucia ,Borges,lucia.borges@seattlecolleges.edu,,,,,
+34,Binti,"Okorafor, Nnedi",2018,"Tom Doherty Associates, LLC",Science Fiction,English,9.78125E+12,,,,,,1019,Macario,Valdes,macario.valdes@seattlecolleges.edu,,,,,
+35,Gotico,"Moreno-Garcia, Silvia",2021,Minotauro,Horror,Spanish,9.78607E+12,,,,,,1020,Michel,Brown,michel.brown@seattlecolleges.edu,,,,,
+36,El embrujo,"Moreno-Garcia, Silvia",2026,Minotauro,Horror,Spanish,9.78607E+12,,,,,,1021,Angelique,Boyer,angelique.boyer@seattlecolleges.edu,,,,,
+37,Plastic Inc.,"Gardiner, Beth",2026,Avery,Non-fiction,English,9.78059E+12,,,,,,1022,Alejandro,Nones,alejandro.nones@seattlecolleges.edu,,,,,
+38,No Human Involved,"Neely, Cheryl L.",2025,Beacon Press,Non-fiction,English,9.78081E+12,,,,,,1023,Arturo,Barba,arturo.barba@seattlecolleges.edu,,,,,
+39,The Dream Hotel,"Lalami, Laila",2025,Pantheon Books,Dystopian Fication,English,9.78059E+12,,,,,,1024,Beltran,Camacho,beltran.camacho@seattlecolleges.edu,,,,,
+40,Belonging: A Culture of Place,"hooks, bell",2008,Taylor and Francis,,English,9.78042E+12,,,,,,1025,Macarena,Achaga,macarena.achaga@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1026,Valentina,Carvajal,valentina.carvajal@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1027,Claudia,Martin,claudia.martin@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1028,Eva,Carvajal,eva.carvajal@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1029,Lupita,Valdes,lupita.valdes@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1030,Gonzalo,Pena,gonzalo.pena@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1031,Barbara,Lopez,barbara.lopez@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1032,Cayetano,Aramburo,cayetano.aramburo@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1033,Mateo,Luna,mateo.luna@seattlecolleges.edu,,,,,
+,,,,,,,,,,,,,1034,Nestor,Rodulfo,nestor.rodulfo@seattlecolleges.edu,,,,,
+,,,,,,loans,,,,,,,1035,Marta,Zamora,marta.zamora@seattlecolleges.edu,,,,,
+reservations,,,,,,loan_id,copy_id,student_id,staff_id,checkout_date,return_date,,1036,Lupita,Nyong'o,lupita.nyongo@seattlecolleges.edu,,,,,
+reservation_id,book_id,student_id,reservation_status,reservation_date,,l1,c1,1010,123000,11/1/26,11/15/26,,1037,Winston,Duke,winston.duke@seattlecolleges.edu,,,,,
+r1,1,1010,overdue,11/1/26,,l2,c2,1011,123001,11/13/26,11/27/26,,1038,Elizabeth,Moss,elizabeth.moss@seattlecolleges.edu,,,,,
+r2,3,1011,,11/13/26,,l3,c3,1012,123002,11/13/26,11/27/26,,1039,Tim,Heidecker,tim.heidecker@seattlecolleges.edu,,,,,
+r3,5,1012,,11/13/26,,l4,c4,1013,123003,11/1/26,11/15/26,,1040,Shahadi,Wright Joseph,shahadi.wrightjoseph@seattlecolleges.edu,,,,,
+r4,6,1013,overdue,11/1/26,,l5,c5,1014,123004,11/9/26,11/23/26,,1041,Yahya,Abdul-Mateen,yahra.abdulmateen@seattlecolleges.edu,,,,,
+r5,7,1014,,11/9/26,,l6,c6,1015,123005,11/9/26,11/23/26,,1042,Issa,Rae,issa.rae@seattlecolleges.edu,,,,,
+r6,8,1015,,11/9/26,,l7,c7,1016,123006,11/1/26,11/15/26,,1043,Yvonne,Orji,yvonne.orji@seattlecolleges.edu,,,,,
+r7,31,1016,overdue,11/1/26,,l8,c8,1017,123007,11/9/26,11/23/26,,1044,Jay,Ellis,jay.ellis@seattlecolleges.edu,,,,,
+r8,32,1017,,11/9/26,,l9,c9,1018,123008,11/9/26,11/23/26,,1045,Natasha,Rothwell,natasha.rothwell@seattlecolleges.edu,,,,,
+r9,33,1018,,11/9/26,,l10,c10,1019,123009,11/1/26,11/16/26,,1046,Amanda,Seales,amanda.seales@seattlecolleges.edu,,,,,
+r10,34,1019,overdue,11/1/26,,l11,c11,1020,123010,11/4/26,11/18/26,,1047,Veronica,Ngo,veronica.ngo@seattlecolleges.edu,,,,,
+r11,39,1020,,11/4/26,,l12,c12,1021,123011,11/4/26,11/18/26,,1048,Kieu,Chinh,kieu.chinh@seattlecolleges.edu,,,,,
+r12,40,1021,,11/4/26,,l13,c13,1022,123012,11/5/26,11/19/26,,1049,Ke Huy,Quan,kehuy.quan@seattlecolleges.edu,,,,,
+r13,41,1022,,11/5/26,,l14,c14,1023,123013,11/1/26,11/15/26,,,,,,,,,,
+r14,41,1023,overdue,11/1/26,,l15,c15,1024,123014,11/13/26,11/27/26,,,,,,,,,,
+r15,2,1024,,11/13/26,,l16,c16,1025,123015,11/13/26,11/27/26,,book,copies,,,,,,,
+r16,2,1025,,11/13/26,,l17,c17,1026,123016,11/1/26,11/15/26,,copy_id,book_copies,book_condition,barcode,,,,,
+r17,2,1026,overdue,11/1/26,,l18,c18,1027,123017,11/9/26,11/23/26,,c1,3,poor,abc-abc-123,,,,,
+r18,22,1027,,11/9/26,,l19,c19,1028,123018,11/9/26,11/23/26,,c2,3,excellent,abc-abc-124,,,,,
+r19,22,1028,,11/9/26,,l20,c20,1029,123019,11/1/26,11/15/26,,c3,3,excellent,abc-abc-125,,,,,
+r20,22,1029,overdue,11/1/26,,l21,c21,1030,123020,11/9/26,11/23/26,,c4,3,poor,abc-abc-126,,,,,
+r21,21,1030,,11/9/26,,l22,c22,1031,123000,11/9/26,11/23/26,,c5,3,okay,abc-abc-127,,,,,
+r22,21,1031,,11/9/26,,l23,c23,1032,123001,11/1/26,11/16/26,,c6,3,okay,abc-abc-128,,,,,
+r23,21,1032,overdue,11/1/26,,l24,c24,1033,123002,11/4/26,11/18/26,,c7,3,okay,abc-abc-129,,,,,
+r24,20,1033,,11/4/26,,l25,c25,1034,123003,11/4/26,11/18/26,,c8,3,okay,abc-abc-130,,,,,
+r25,20,1034,,11/4/26,,l26,c26,1035,123004,11/5/26,11/19/26,,c9,3,poor,abc-abc-131,,,,,
+r26,20,1035,,11/5/26,,l27,c27,1036,123005,11/1/26,11/15/26,,c10,3,excellent,abc-abc-132,,,,,
+r27,6,1036,overdue,11/1/26,,l28,c28,1037,123006,11/13/26,11/27/26,,c11,3,excellent,abc-abc-133,,,,,
+r28,6,1037,,11/13/26,,l29,c29,1038,123007,11/13/26,11/27/26,,c12,3,poor,abc-abc-134,,,,,
+r29,6,1038,,11/13/26,,l30,c30,1039,123008,11/1/26,11/15/26,,c13,3,okay,abc-abc-135,,,,,
+r30,39,1039,overdue,11/1/26,,l31,c31,1040,123009,11/9/26,11/23/26,,c14,3,okay,abc-abc-136,,,,,
+r31,39,1040,,11/9/26,,l32,c32,1041,123010,11/9/26,11/23/26,,c15,3,okay,abc-abc-137,,,,,
+r32,39,1041,,11/9/26,,l33,c33,1042,123011,11/1/26,11/15/26,,c16,3,okay,abc-abc-138,,,,,
+r33,40,1042,overdue,11/1/26,,l34,c34,1043,123012,11/9/26,11/23/26,,c17,3,poor,abc-abc-139,,,,,
+r34,40,1043,,11/9/26,,l35,c35,1044,123013,11/9/26,11/23/26,,c18,3,excellent,abc-abc-140,,,,,
+r35,40,1044,,11/9/26,,l36,c36,1045,123014,11/1/26,11/16/26,,c19,3,excellent,abc-abc-141,,,,,
+r36,7,1045,overdue,11/1/26,,l37,c37,1046,123015,11/4/26,11/18/26,,c20,3,poor,abc-abc-142,,,,,
+r37,7,1046,,11/4/26,,l38,c38,1047,123016,11/4/26,11/18/26,,c21,3,okay,abc-abc-143,,,,,
+r38,7,1047,,11/4/26,,l39,c39,1048,123017,11/5/26,11/19/26,,c22,3,okay,abc-abc-144,,,,,
+r39,7,1048,,11/5/26,,l40,c40,1049,123018,11/13/26,11/27/26,,c23,3,okay,abc-abc-145,,,,,
+r40,7,1049,,11/13/26,,,,,,,,,c24,3,okay,abc-abc-146,,,,,
+,,,,,,,,,,,,,c25,3,poor,abc-abc-147,,,,,
+,,,,,,,,,,,,,c26,3,excellent,abc-abc-148,,,,,
+,,,,,,,,,,,,,c27,3,excellent,abc-abc-149,,,,,
+,,,,,,,,,,,,,c28,3,poor,abc-abc-150,,,,,
+,,,,,,,,,,,,,c29,3,okay,abc-abc-151,,,,,
+,,,,,,,,,,,,,c30,3,okay,abc-abc-152,,,,,
+,,,,,,,,,,,,,c31,3,okay,abc-abc-153,,,,,
+,,,,,,,,,,,,,c32,3,okay,abc-abc-154,,,,,
+,,,,,,,,,,,,,c33,3,poor,abc-abc-155,,,,,
+,,,,,,,,,,,,,c34,3,excellent,abc-abc-156,,,,,
+,,,,,,,,,,,,,c35,3,excellent,abc-abc-157,,,,,
+,,,,,,,,,,,,,c36,3,poor,abc-abc-158,,,,,
+,,,,,,,,,,,,,c37,3,okay,abc-abc-159,,,,,
+,,,,,,,,,,,,,c38,3,okay,abc-abc-160,,,,,
+,,,,,,,,,,,,,c39,3,okay,abc-abc-161,,,,,
+,,,,,,,,,,,,,c40,3,okay,abc-abc-162,,,,,
